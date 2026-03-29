@@ -6,6 +6,12 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="150" height="150">
+  
+</div>
+<div align="center">
+  <a href="https://discord.com/users/471942131209207840">
+    <img src="https://lanyard.cnrad.dev/api/471942131209207840?bg=0D1117&idleMessage=Probably%20reading%20manga...&theme=dark&borderRadius=10px" alt="Discord Status" />
+  </a>
 </div>
 
 <br>
@@ -31,10 +37,10 @@ Let's build something cool.
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayhan-099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan-099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayhan-099&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rayhan-099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
 </div>
-
 <br>
 
 <p align="center">
