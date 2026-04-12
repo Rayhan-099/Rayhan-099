@@ -7,12 +7,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="150" height="150">
   
-</div>
-<div align="center">
-  <a href="https://discord.com/users/471942131209207840">
-    <img src="https://lanyard.cnrad.dev/api/471942131209207840?bg=0D1117&idleMessage=Probably%20reading%20manga...&theme=dark&borderRadius=10px" alt="Discord Status" />
-  </a>
-</div>
 
 <br>
 
