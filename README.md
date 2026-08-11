@@ -1,35 +1,30 @@
 <div align="center">
 
-<img src="https://github.com/Rayhan-099.png" width="120" alt="Rayhan's GitHub avatar"/>
-
 # ✦ RAYHAN ✦
 
-### `developer.exe is currently running...`
+<a href="https://github.com/Rayhan-099">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=850&color=C9B8FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=95&lines=building+things+that+probably+shouldn't+exist+yet;AI%2FML+%2B+full-stack+%2B+comp+science;currently+lost+somewhere+in+teyvat+%E2%9D%84%EF%B8%8F;coding+at+questionable+hours+lmao" alt="Typing animation"/>
+</a>
 
-**software engineering · AI/ML · anime · games · linux · books**
 
 <br>
 
-<a href="https://github.com/Rayhan-099">
-  <img src="https://img.shields.io/badge/GitHub-161320?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/rayhan-khan-081851340/">
-  <img src="https://img.shields.io/badge/LinkedIn-161320?style=for-the-badge&logo=linkedin&logoColor=9b8cff" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/rayhan_099">
-  <img src="https://img.shields.io/badge/X-161320?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/>
-</a>
-<a href="https://rayhank.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-161320?style=for-the-badge&logo=vercel&logoColor=ffb7df" alt="Portfolio"/>
-</a>
+<a href="https://github.com/Rayhan-099"><img src="https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=EDE7FF" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/rayhan-khan-081851340/"><img src="https://img.shields.io/badge/LinkedIn-24153F?style=for-the-badge&logo=linkedin&logoColor=EDE7FF" alt="LinkedIn"/></a>
+<a href="https://x.com/rayhan_099"><img src="https://img.shields.io/badge/X-0D0B14?style=for-the-badge&logo=x&logoColor=EDE7FF" alt="X"/></a>
+<a href="https://rayhank.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5B3A91?style=for-the-badge&logo=vercel&logoColor=EDE7FF" alt="Portfolio"/></a>
+<a href="mailto:khanrayhan8307@gmail.com"><img src="https://img.shields.io/badge/Email-3B245F?style=for-the-badge&logo=gmail&logoColor=EDE7FF" alt="Email"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Rayhan-099&style=for-the-badge&color=9b8cff&label=PROFILE+VIEWS" alt="Profile views"/>
-
+<!-- Cute anime-style counter + a stable fallback -->
+<img src="https://count.getloli.com/get/@Rayhan-099?theme=gelbooru-h" alt="Profile visitor count"/>
 <br>
+<img src="https://komarev.com/ghpvc/?username=Rayhan-099&label=profile%20visitors&color=8d6ac8&style=flat-square" alt="Profile views"/>
 
-`✦` `building things` `✦` `breaking things` `✦` `fixing things` `✦`
+<br><br>
+
+`✦` `building things` `✦` `breaking things` `✦` `fixing things` `✦` `making them pretty` `✦`
 
 </div>
 
@@ -39,9 +34,9 @@
 
 > *"Somewhere between writing code, reading fiction, and wondering why this tiny project became a three-day debugging session."*
 
-</div>
+`٭･ﾟ ✦ ｡ﾟ✦｡ ﾟ ✦ ﾟ｡ ✦ ٭`
 
-<br>
+</div>
 
 ## ╭─ ✦ `whoami` ─────────────────────────╮
 
@@ -52,8 +47,7 @@ Rayhan Khan
 
 $ cat /etc/rayhan.conf
 
-role        = "Computer Science Student + Developer"
-degree      = "B.Tech — Computer Science & Engineering"
+role        = "Comp Science Student + Developer"
 pronouns    = "he/him"
 personality = "INFP"
 
@@ -121,11 +115,11 @@ a Genshin quest, or a completely unnecessary Linux customization rabbit hole.
 │ SYSTEM STATUS                │
 ├──────────────────────────────┤
 │ 🟢 Building AI projects     │
-│ 🟢 Learning DSA             │
-│ 🟢 Exploring Linux          │
+│ 🟢 DSA arc                  │
+│ 🟢 Ricing Linux             │
 │ 🟢 Experimenting with AI    │
 │ 🟡 Fighting skill issues    │
-│ 🔴 Grass.exe not found      │
+│ 🔴 Grass not touched        │
 └──────────────────────────────┘
 ```
 
@@ -135,134 +129,126 @@ a Genshin quest, or a completely unnecessary Linux customization rabbit hole.
 
 ---
 
-# ╭─ ✦ CURRENT QUEST ───────────────────╮
+<div align="center">
 
-### `> building...`
+┈┈┈┈┈┈┈┈┈┈┈┈ ✦ ┈┈┈┈┈┈┈┈┈┈┈┈
 
-AI-powered projects, full-stack applications, machine learning experiments,
-and anything else that starts with *"wait, could I actually build this?"*
+</div>
 
-### `> studying...`
+# ‧₊˚ ⋅ `currently` ⋅˚₊‧
 
-- Data Structures & Algorithms
-- Artificial Intelligence
-- Machine Learning
-- Full-stack development
-- Software engineering fundamentals
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### `> experimenting...`
+### ◇ building
 
-- AI / ML models
-- Generative AI
-- Agentic AI
-- Computer Vision
-- Next.js
-- FastAPI
-- DevOps
-- Linux
-- Automation
-- Random ideas that probably should've stayed in my notes app
+```text
+> AI-powered projects
+> full-stack experiments
+> making things unnecessarily pretty
+```
 
-### `> main_quest...`
+### ◇ studying
 
-> Become genuinely good at building things, land strong internships,
-> create projects I'm actually proud of, and eventually work on interesting
-> AI/software projects.
+```text
+> Data Structures & Algorithms
+> Artificial Intelligence / ML
+> Full-stack development
+> Software engineering fundamentals
+```
 
-╰──────────────────────────────────────╯
+</td>
+<td width="50%" valign="top">
+
+### ◇ experimenting with
+
+```text
+> Generative AI
+> Agentic AI
+> Computer Vision
+> Next.js / FastAPI
+> DevOps / Linux / automation
+> ideas that should've stayed
+  in my notes app
+```
+
+### ◇ main quest
+
+```text
+strong fundamentals
+      ↓
+better projects
+      ↓
+strong internships
+      ↓
+become genuinely good
+at building things
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ✦ `~/projects`
+# ‧₊˚ ⋅ `~/projects` ⋅˚₊‧
 
 > Things I've built instead of doing something sensible.
 
-<br>
+### ✦ 🌙 Lumine — AI-Powered Skin Intelligence
 
-## 🌙 Lumine — AI-Powered Skin Intelligence
+> Full-stack AI platform for visual skin-condition classification, personalized insights, history, trends, and an AI assistant.
 
-<a href="https://lumineai.vercel.app/">
-<img src="https://img.shields.io/badge/◈_LIVE_DEMO-161320?style=for-the-badge&logo=vercel&logoColor=ffb7df" alt="Lumine live demo"/>
-</a>
-<a href="https://github.com/Rayhan-099/lumine">
-<img src="https://img.shields.io/badge/⌘_SOURCE-161320?style=for-the-badge&logo=github&logoColor=9b8cff" alt="Lumine source"/>
-</a>
+**Stack:** `React` `FastAPI` `PostgreSQL` `DINOv2` `Hugging Face` `Gemini`
 
-**AI-powered skin intelligence platform**
-
-A full-stack AI platform built around visual skin-condition classification,
-personalized insights, history tracking, and an AI assistant.
-
-**Stack**
-
-`React` `FastAPI` `PostgreSQL` `DINOv2` `Hugging Face` `Gemini`
-
-**Highlights**
-
-- 🧠 DINOv2-based classification across **31 visual skin conditions**
+- 🧠 Classifies **31 visual skin conditions** using DINOv2
 - 🗄️ PostgreSQL backend with JWT authentication
 - 📈 History and trend tracking
 - 🤖 Google Gemini + Hugging Face integrations
 - 🔐 Secure image validation and API rate limiting
 - 🧪 40+ automated Pytest tests
-- ☁️ Deployed using Vercel and Render
+- ☁️ Deployed on Vercel + Render
+
+<a href="https://lumineai.vercel.app/"><img src="https://img.shields.io/badge/◈_LIVE-5B3A91?style=flat-square&logo=vercel&logoColor=white" alt="Lumine live"/></a>
+<a href="https://github.com/Rayhan-099/lumine"><img src="https://img.shields.io/badge/⌘_REPO-0D0B14?style=flat-square&logo=github&logoColor=white" alt="Lumine repository"/></a>
 
 ---
 
-## 💜 Current Capital — Finance Manager
+### ✦ 💜 Current Capital — Finance Manager
 
-<a href="https://finance-manager-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/◈_LIVE_DEMO-161320?style=for-the-badge&logo=vercel&logoColor=ffb7df" alt="Current Capital live demo"/>
-</a>
-<a href="https://github.com/Rayhan-099/finance-manager">
-<img src="https://img.shields.io/badge/⌘_SOURCE-161320?style=for-the-badge&logo=github&logoColor=9b8cff" alt="Current Capital source"/>
-</a>
+> A personal finance app that budgets in envelopes and reads receipts for you.
 
-**A personal finance manager that decided spreadsheets weren't dramatic enough.**
-
-A full-stack finance application for expense tracking, envelope budgeting,
-analytics, and AI-assisted receipt processing.
-
-**Stack**
-
-`React` `Node.js` `Express` `Tailwind CSS` `Gemini AI`
-
-**Highlights**
+**Stack:** `React` `Node.js` `Express` `Tailwind CSS` `Gemini AI`
 
 - 💸 Automated expense tracking
 - 📦 Dynamic envelope budgeting
-- 📊 Interactive financial analytics
+- 📊 Real-time analytics with custom Recharts visualizations
 - 🔐 Stateless JWT authentication
-- 🧾 Gemini Vision receipt extraction
-- 🎨 Glassmorphism-inspired interface
+- 🧾 Gemini Vision receipt extraction + categorization
+- 🎨 Glassmorphism-inspired UI
 - ⚡ Low-latency REST API
+
+<a href="https://finance-manager-zeta.vercel.app/"><img src="https://img.shields.io/badge/◈_LIVE-5B3A91?style=flat-square&logo=vercel&logoColor=white" alt="Current Capital live"/></a>
+<a href="https://github.com/Rayhan-099/finance-manager"><img src="https://img.shields.io/badge/⌘_REPO-0D0B14?style=flat-square&logo=github&logoColor=white" alt="Current Capital repository"/></a>
 
 ---
 
-## 🌸 Health Assistant Platform
+### ✦ 🌸 Health Assistant Platform
 
-**Full-stack health platform built with React and Supabase.**
+> Team-built health platform that cleared the **SIH 2025 internal round**.
 
-A collaborative project that made it through the **SIH 2025 internal round**.
-
-**Stack**
-
-`React` `Supabase` `Medical APIs`
-
-**Highlights**
+**Stack:** `React` `Supabase` `Medical APIs`
 
 - 🩺 Full-stack health platform
 - ⚡ Fault-tolerant Supabase backend
 - 🔌 Medical API integrations
 - 🧩 5+ React modules
 - ⏰ Real-time medical reminder system
-- 📈 Focused on reliable, responsive interactions
-
----
+- 📈 >95% reminder reliability
+- ⚡ <250ms response times
 
 <div align="center">
-
-### ✦ project philosophy
 
 `idea` → `prototype` → `why is this broken` → `debug` → `make it pretty` → `ship`
 
@@ -270,164 +256,123 @@ A collaborative project that made it through the **SIH 2025 internal round**.
 
 ---
 
-# ✦ TECHNICAL INVENTORY
+# ‧₊˚ ⋅ `tech stack` ⋅˚₊‧
 
-## 💻 Languages
+<div align="center">
 
-<p align="center">
+### 💻 languages
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,sql,html,css" alt="Programming languages"/>
 
-</p>
+### 🧠 AI / data science
 
----
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,opencv" alt="AI and data science tools"/>
 
-## 🧠 AI / Data Science
+### 🌐 web & backend
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,nextjs" alt="Web and backend technologies"/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI technologies"/>
-
-</p>
-
-```text
-PyTorch        TensorFlow
-Scikit-learn   Pandas
-NumPy          Matplotlib
-OpenCV         MediaPipe
-```
-
----
-
-## 🌐 Frameworks & Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,fastapi,nextjs" alt="Frameworks"/>
-
-</p>
-
-```text
-React.js       Node.js
-Express.js     Django
-FastAPI        Next.js
-```
-
----
-
-## 🗄️ Databases & Cloud
-
-<p align="center">
+### 🗄️ data & cloud
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,gcp" alt="Databases and cloud"/>
 
-</p>
+### 🛠️ tools & environment
+
+<img src="https://skillicons.dev/icons?i=git,githubactions,docker,postman,jupyter,arch" alt="Tools and environment"/>
+
+<br>
+
+<sub><i>"I use Arch btw" 🗣️</i></sub>
+
+</div>
+
+<details>
+<summary>✦ core competencies</summary>
+
+<br>
+
+`Machine Learning` `Generative AI` `Agentic AI` `Data Structures & Algorithms`
+`REST APIs` `OOP`
+
+</details>
+
+---
+
+# ✦ `skill tree`
 
 ```text
-PostgreSQL     MongoDB
-Firebase       GCP
+                         ┌───────────────────────┐
+                         │     SOFTWARE DEV      │
+                         └───────────┬───────────┘
+                                     │
+              ┌──────────────────────┼──────────────────────┐
+              │                      │                      │
+              ▼                      ▼                      ▼
+         ┌──────────┐           ┌──────────┐           ┌──────────┐
+         │ FRONTEND │           │ BACKEND  │           │  AI / ML │
+         ├──────────┤           ├──────────┤           ├──────────┤
+         │ React    │           │ FastAPI  │           │ PyTorch  │
+         │ Next.js  │           │ Node.js  │           │ TensorFl │
+         │ TypeScript│          │ Express  │           │ OpenCV   │
+         │ Tailwind │           │ Django   │           │ sklearn  │
+         └────┬─────┘           └────┬─────┘           └────┬─────┘
+              │                      │                      │
+              └──────────────────────┼──────────────────────┘
+                                     │
+                                     ▼
+                            ┌──────────────────┐
+                            │    DATA LAYER    │
+                            ├──────────────────┤
+                            │ PostgreSQL       │
+                            │ MongoDB          │
+                            │ Firebase         │
+                            └──────────────────┘
 ```
 
 ---
 
-## 🛠️ Tools & Environment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,jupyter" alt="Development tools"/>
-
-</p>
-
-```text
-Git / GitHub       CI/CD
-Jupyter / Colab    Postman
-Docker             Linux
-```
-
-### 🐧 Operating System
-
-> **"I use Arch Linux btw 🗣️"**
-
-```text
-OS          → Arch Linux
-Terminal    → questionable amounts of customization
-Workflow    → terminal → code → break → debug → repeat
-```
-
----
-
-# ✦ SKILL TREE
-
-```text
-                 ┌───────────────────────┐
-                 │     SOFTWARE DEV      │
-                 └───────────┬───────────┘
-                             │
-          ┌──────────────────┼──────────────────┐
-          │                  │                  │
-          ▼                  ▼                  ▼
-      FRONTEND             BACKEND             AI/ML
-          │                  │                  │
-       React              FastAPI             PyTorch
-       Next.js            Node.js             TensorFlow
-       TypeScript         Express             OpenCV
-       Tailwind           Django              Scikit-learn
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    DATABASES    │
-                    ├─────────────────┤
-                    │ PostgreSQL      │
-                    │ MongoDB         │
-                    │ Firebase        │
-                    └─────────────────┘
-```
-
----
-
-# ✦ GITHUB OBSERVATORY
+# ✦ `github observatory`
 
 <div align="center">
 
 <a href="https://github.com/Rayhan-099">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rayhan-099&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d0b14&title_color=c9b8ff&icon_color=c9b8ff&text_color=d9d2e9" alt="Rayhan's GitHub statistics"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rayhan-099&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0d0b14&title_color=c9b8ff&icon_color=9b8cff&text_color=e6e0f5" alt="Rayhan's GitHub statistics"/>
 </a>
 
 <a href="https://github.com/Rayhan-099">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan-099&layout=compact&hide_border=true&langs_count=8&bg_color=0d0b14&title_color=c9b8ff&text_color=d9d2e9" alt="Rayhan's top languages"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhan-099&layout=compact&langs_count=10&hide_border=true&bg_color=0d0b14&title_color=c9b8ff&text_color=e6e0f5&hide=html,css" alt="Rayhan's most used languages"/>
 </a>
 
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Rayhan-099&hide_border=true&background=0D0B14&stroke=5B3A91&ring=C9B8FF&fire=FFB7DF&currStreakLabel=E6E0F5&sideLabels=E6E0F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8C849F" width="68%" alt="Rayhan's GitHub streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayhan-099&bg_color=0d0b14&color=c9b8ff&line=9b8cff&point=ffb7df&area=true&hide_border=true&custom_title=Rayhan%27s%20Contribution%20Constellation" width="92%" alt="Rayhan's GitHub contribution activity"/>
+
 </div>
+
+<details>
+<summary>✦ trophy case</summary>
 
 <br>
 
 <div align="center">
 
-<a href="https://github.com/Rayhan-099">
-
-<img src="https://streak-stats.demolab.com/?user=Rayhan-099&theme=dark&hide_border=true&background=0D0B14&ring=C9B8FF&fire=FFB7DF&currStreakLabel=C9B8FF&sideLabels=D9D2E9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8C849F" alt="Rayhan's GitHub streak"/>
-
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Rayhan-099&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Rayhan's GitHub trophies"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayhan-099&bg_color=0d0b14&color=c9b8ff&line=9b8cff&point=ffb7df&area=true&hide_border=true&custom_title=Rayhan's%20Contribution%20Constellation" alt="Rayhan's GitHub activity graph"/>
-
-</div>
+</details>
 
 ---
 
-# ✦ CONTRIBUTION CONSTELLATION
+# ✦ `contribution garden`
+
+<div align="center">
+
+### 🌙 every commit is another little star
 
 ```text
           ✦                 ·
@@ -443,23 +388,27 @@ Workflow    → terminal → code → break → debug → repeat
              ✧       ✧
                 ╲   ╱
        ✦          ✧          ✦
-
-        every commit is another star
 ```
 
-<div align="center">
+<!--
+OPTIONAL UPGRADE:
+After installing the Platane/snk GitHub Action in this profile repository,
+replace the block below with your generated local snake assets:
 
-<a href="https://github.com/Rayhan-099">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg"/>
+  <img alt="github contribution snake" src="github-snake.svg"/>
+</picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rayhan-099&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&bg_color=0d0b14&title_color=c9b8ff&text_color=d9d2e9" alt="Rayhan's GitHub activity"/>
-
-</a>
+The action is intentionally not referenced as a broken remote image here.
+-->
 
 </div>
 
 ---
 
-# ✦ LEARNING ARC
+# ✦ `learning arc`
 
 ```text
 ╭──────────────────────────────────────────────────╮
@@ -474,13 +423,13 @@ Workflow    → terminal → code → break → debug → repeat
 │                                                  │
 │  status: ███████████░░░░░░░░░░░░░               │
 │                                                  │
-│  note: progress bars are decorative,             │
-│        unfortunately the knowledge isn't DLC.    │
+│  progress bar is decorative.                    │
+│  unfortunately, knowledge isn't DLC.            │
 │                                                  │
 ╰──────────────────────────────────────────────────╯
 ```
 
-### 🎯 Short-term
+### 🎯 short-term
 
 - Get better at DSA
 - Strengthen programming fundamentals
@@ -488,22 +437,17 @@ Workflow    → terminal → code → break → debug → repeat
 - Contribute to open source
 - Land good internships
 
-### 🌌 Long-term
+### 🌌 long-term
 
 - Become a highly capable software / AI engineer
 - Work on meaningful technology
 - Build things of my own
 - Keep learning and building
-- Eventually create a life that gives me room to explore interesting ideas
-
-### 🧭 Career direction
-
-> AI/ML + Software Engineering  
-> real-world engineering experience → strong teams → interesting products → eventually my own things
+- Create a life that leaves room for exploration
 
 ---
 
-# ✦ `daily_quest`
+# ✦ `daily quest`
 
 ```text
 ╭──────────────────────────────────────────╮
@@ -515,7 +459,7 @@ Workflow    → terminal → code → break → debug → repeat
 │  [ ] solve something                     │
 │  [ ] read something                      │
 │  [ ] build something                     │
-│  [ ] question an architectural decision │
+│  [ ] question an architecture decision  │
 │  [ ] accidentally spend 3 hours tweaking │
 │      something nobody asked for          │
 │                                          │
@@ -524,7 +468,7 @@ Workflow    → terminal → code → break → debug → repeat
 
 ---
 
-# ✦ GENSHIN ARCHIVE
+# ✦ `genshin archive`
 
 <div align="center">
 
@@ -532,11 +476,7 @@ Workflow    → terminal → code → break → debug → repeat
 
 `Asia Server` · `AR 60` · `Cryo`
 
-### Favorite characters
-
 **Skirk · Arlecchino · Tsaritsa**
-
-### Current aesthetic alignment
 
 `Snezhnaya` ❄️ · `Cryo` · `mysterious` · `elegant` · `powerful`
 
@@ -559,39 +499,33 @@ Workflow    → terminal → code → break → debug → repeat
 ╰────────────────────────────────────────╯
 ```
 
-> Somewhere between writing production code and farming fictional
-> characters who absolutely do not need another artifact.
+> Somewhere between writing production code and farming fictional characters
+> who absolutely do not need another artifact.
 
 ---
 
-# ✦ ANIME / MANGA ARCHIVE
+# ✦ `anime / manga archive`
 
-### 🍖 One Piece
+| ✦ | Current lore |
+|:---:|:---|
+| 🍖 | **One Piece** — favorite anime |
+| 📖 | **Monogatari** — favorite light novel |
+| ⚔️ | Bleach |
+| 🌸 | Kaoruhana |
+| 🍥 | Evangelion |
 
-One of my favorite anime.
-
-### 📖 Monogatari
-
-Favorite light novel.
-
-### 🌸 Other anime I enjoy
-
-`Bleach` · `Demon Slayer` · `Naruto` · `One Piece`
-
-### 📚 Fictional rabbit holes
-
-Novels · light novels · manga · lore · character design · fictional worlds
+`novels` · `light novels` · `manga` · `lore` · `character design` · `fictional worlds`
 
 ---
 
-# ✦ GAME LIBRARY
+# ✦ `game library`
 
 <div align="center">
 
-| 🎮 Game | Status |
+| 🎮 game | status |
 |:---|:---:|
 | ❄️ Genshin Impact | `AR 60 • Skirk Main` |
-| ⛏️ Minecraft | `probably building something unnecessary` |
+| ⛏️ Minecraft | `building something unnecessary` |
 | 🗡️ Hollow Knight | `respectfully suffering` |
 | 🐛 Silksong | `yes.` |
 
@@ -599,15 +533,11 @@ Novels · light novels · manga · lore · character design · fictional worlds
 
 ---
 
-# ✦ MUSIC AFTER MIDNIGHT
+# ✦ `music after midnight`
 
 <div align="center">
 
-### 🎧 Current emotional damage provider
-
-**Cigarettes After Sex**
-
-<br>
+### 🎧 Cigarettes After Sex
 
 `dream pop` · `indie` · `alternative` · `ambient`  
 `bedroom pop` · `lo-fi` · `melancholic` · `atmospheric`
@@ -615,7 +545,7 @@ Novels · light novels · manga · lore · character design · fictional worlds
 <br>
 
 <a href="https://open.spotify.com/user/31zb5zzelmr3ql6z3v2o44okp2ju">
-<img src="https://img.shields.io/badge/Spotify-161320?style=for-the-badge&logo=spotify&logoColor=9be9b2" alt="Spotify"/>
+<img src="https://img.shields.io/badge/Spotify-24153F?style=for-the-badge&logo=spotify&logoColor=B8FFD8" alt="Spotify"/>
 </a>
 
 </div>
@@ -624,7 +554,7 @@ Novels · light novels · manga · lore · character design · fictional worlds
 
 ---
 
-# ✦ OUTSIDE THE TERMINAL
+# ✦ `outside the terminal`
 
 <table align="center">
 <tr>
@@ -632,7 +562,7 @@ Novels · light novels · manga · lore · character design · fictional worlds
 
 ### 📚
 
-**Reading**
+**READING**
 
 novels  
 light novels  
@@ -643,7 +573,7 @@ manga
 
 ### 🎮
 
-**Gaming**
+**GAMING**
 
 Genshin  
 Minecraft  
@@ -654,18 +584,18 @@ Hollow Knight
 
 ### 🍳
 
-**Creating**
+**CREATING**
 
 coding  
 cooking  
-writing
+writing poems
 
 </td>
 <td align="center" width="25%">
 
 ### 🌸
 
-**Exploring**
+**EXPLORING**
 
 Japanese  
 Linux  
@@ -677,14 +607,14 @@ literature
 
 ---
 
-# ✦ THINGS I COULD TALK ABOUT FOR HOURS
+# ✦ `things i could talk about for hours`
 
 ```text
 AI
 ├── machine learning
 ├── generative AI
 ├── computer vision
-└── "what if we made this?"
+└── "wait... what if we made this?"
 
 TECH
 ├── programming
@@ -709,19 +639,17 @@ RANDOM
 
 ---
 
-# ✦ RANDOM INVENTORY
+# ✦ `inventory`
 
 ```text
 ╭────────────────────────────────────────────╮
 │                INVENTORY                   │
 ├────────────────────────────────────────────┤
 │                                            │
-│  ⌨️  Mechanical keyboard       [ EQUIPPED ]│
+│  ⌨️  Keyboard                  [ EQUIPPED ]│
 │  💻  Laptop                    [ EQUIPPED ]│
 │  🐧  Arch Linux                [ EQUIPPED ]│
 │  📚  Random novel              [ +10 LORE ]│
-│  🎧  CAS playlist              [ +20 MOOD ]│
-│  ❄️  Cryo obsession             [ PASSIVE ]│
 │  🎮  Genshin                   [ DANGER ]  │
 │  ☕  Coffee                    [ MISSING ] │
 │                                            │
@@ -730,24 +658,7 @@ RANDOM
 
 ---
 
-# ✦ FUN FACTS
-
-- ❄️ Skirk is the main.
-- 🐧 I use Arch Linux.
-- 🎧 Cigarettes After Sex has probably soundtracked several questionable decisions.
-- 📚 I like novels, light novels, and manga.
-- 🎮 Genshin is somehow both entertainment and a side quest.
-- 🍳 I enjoy cooking.
-- ✍️ I write poems.
-- 🌸 I'm learning Japanese.
-- 🧠 I enjoy going down unnecessarily deep rabbit holes.
-- 💻 Linux customization can become a full project by itself.
-- 🐛 A tiny coding problem can absolutely become a three-day debugging arc.
-- ✦ I like making technical things look good instead of accepting that "it works" is the final form.
-
----
-
-# ✦ ACHIEVEMENT UNLOCKED
+# ✦ `achievement unlocked`
 
 ```text
 ╭─────────────────────────────────────────╮
@@ -767,32 +678,23 @@ RANDOM
 
 ---
 
-# ✦ CURRENT SYSTEM LOG
+# ✦ `system.log`
 
 ```console
-$ echo $USER
-rayhan
+$ whoami
+Rayhan Khan
+
+$ echo $ROLE
+B.Tech CSE / Developer
 
 $ echo $OS
 Arch Linux btw
 
-$ echo $CURRENT_PROJECT
-AI-powered things
-
 $ echo $CURRENT_FOCUS
 DSA + AI/ML + full-stack
 
-$ echo $FAVORITE_GAME
-Genshin Impact
-
-$ echo $MAIN
-Skirk
-
-$ echo $FAVORITE_REGION
-Snezhnaya
-
-$ echo $FAVORITE_ELEMENT
-Cryo
+$ echo $CURRENT_PROJECT
+AI-powered things
 
 $ echo $STATUS
 building...
@@ -803,84 +705,49 @@ command not found
 
 ---
 
-# ✦ GOALS
+# ✦ `goals`
 
-### `01 — Become dangerous with fundamentals`
+### `01 — become dangerous with fundamentals`
 
-Get genuinely comfortable with programming, DSA,
-software engineering, and the foundations behind the tools I use.
+Get genuinely comfortable with programming, DSA, software engineering,
+and the foundations behind the tools I use.
 
-### `02 — Build things worth showing`
+### `02 — build things worth showing`
 
 Not just tutorial projects.
 
 Things with actual ideas behind them.
 
-### `03 — Get real-world experience`
+### `03 — get real-world experience`
 
-Land strong internships and learn what engineering
-looks like outside a classroom.
+Land strong internships and learn what engineering looks like
+outside a classroom.
 
-### `04 — Explore AI seriously`
+### `04 — explore AI seriously`
 
-Keep experimenting with machine learning,
-generative AI, computer vision, and whatever comes next.
+Keep experimenting with machine learning, generative AI,
+computer vision, and whatever comes next.
 
-### `05 — Keep creating`
+### `05 — keep creating`
 
 Read more. Write more. Learn Japanese.
 Build random things because they're fun.
 
 ---
 
-# ✦ SOCIAL PORTAL
+# ✦ `let's talk`
 
 <div align="center">
 
-<a href="https://github.com/Rayhan-099">
-<img src="https://img.shields.io/badge/GitHub-161320?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
-</a>
+<a href="https://github.com/Rayhan-099"><img src="https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=EDE7FF" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/rayhan-khan-081851340/"><img src="https://img.shields.io/badge/LinkedIn-24153F?style=for-the-badge&logo=linkedin&logoColor=EDE7FF" alt="LinkedIn"/></a>
+<a href="https://x.com/rayhan_099"><img src="https://img.shields.io/badge/X-0D0B14?style=for-the-badge&logo=x&logoColor=EDE7FF" alt="X"/></a>
+<a href="https://rayhank.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5B3A91?style=for-the-badge&logo=vercel&logoColor=EDE7FF" alt="Portfolio"/></a>
+<a href="https://open.spotify.com/user/31zb5zzelmr3ql6z3v2o44okp2ju"><img src="https://img.shields.io/badge/Spotify-3B245F?style=for-the-badge&logo=spotify&logoColor=EDE7FF" alt="Spotify"/></a>
 
-<a href="https://www.linkedin.com/in/rayhan-khan-081851340/">
-<img src="https://img.shields.io/badge/LinkedIn-161320?style=for-the-badge&logo=linkedin&logoColor=9b8cff" alt="LinkedIn"/>
-</a>
+<br>
 
-<a href="https://x.com/rayhan_099">
-<img src="https://img.shields.io/badge/X-161320?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/>
-</a>
-
-<a href="https://rayhank.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-161320?style=for-the-badge&logo=vercel&logoColor=ffb7df" alt="Portfolio"/>
-</a>
-
-<a href="mailto:khanrayhan8307@gmail.com">
-<img src="https://img.shields.io/badge/Email-161320?style=for-the-badge&logo=gmail&logoColor=ffb7df" alt="Email"/>
-</a>
-
-</div>
-
----
-
-# ✦ BEFORE YOU LEAVE...
-
-```text
-      .          ✦                .
-             .         *
-   ✦                         .           ✧
-
-              /\_/\\
-             ( o.o )
-              > ^ <
-
-       thanks for visiting ♡
-```
-
-<div align="center">
-
-### `thanks for stopping by ✦`
-
-**If something here was useful, interesting, or mildly chaotic —
-feel free to explore the repositories.**
+`thanks for stopping by ♡`
 
 <br>
 
@@ -891,18 +758,14 @@ feel free to explore the repositories.**
 
 <br>
 
-### ❄️ `see you somewhere between the terminal and Snezhnaya.` ❄️
+### `see you somewhere between the terminal and teyvat.` 
 
 <br>
-
-<img src="https://img.shields.io/badge/built_with-curiosity-c9b8ff?style=flat-square&labelColor=0d0b14" alt="Built with curiosity"/>
-<img src="https://img.shields.io/badge/powered_by-questionable_hours-ffb7df?style=flat-square&labelColor=0d0b14" alt="Powered by questionable hours"/>
-<img src="https://img.shields.io/badge/status-still_building-9b8cff?style=flat-square&labelColor=0d0b14" alt="Still building"/>
-
-<br><br>
 
 `✦ ───────────────────────────────────────── ✦`
 
 <sub>Rayhan Khan · B.Tech CSE · developer · reader · gamer · builder</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8d6ac8,50:5b3a91,100:0d0b14&height=120&section=footer" width="100%" alt="Footer"/>
