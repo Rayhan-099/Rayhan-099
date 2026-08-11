@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <filter id="sparkGlow">
+      <feGaussianBlur stdDeviation="1.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes sparkle { 0%,100% { opacity: 0.3; transform: scale(0.8) rotate(0deg); } 50% { opacity: 1; transform: scale(1.2) rotate(30deg); } }
+      .crystal { animation: sparkle 3s ease-in-out infinite; transform-origin: 15px 15px; }
+    </style>
+  </defs>
+  <g class="crystal" filter="url(#sparkGlow)">
+    <!-- Six-pointed ice crystal -->
+    <line x1="15" y1="4" x2="15" y2="26" stroke="#C9B8FF" stroke-width="1.2" stroke-linecap="round"/>
+    <line x1="5.5" y1="9.5" x2="24.5" y2="20.5" stroke="#C9B8FF" stroke-width="1.2" stroke-linecap="round"/>
+    <line x1="5.5" y1="20.5" x2="24.5" y2="9.5" stroke="#C9B8FF" stroke-width="1.2" stroke-linecap="round"/>
+    <!-- Inner detail -->
+    <circle cx="15" cy="15" r="3" fill="none" stroke="#9B8CFF" stroke-width="0.6" opacity="0.6"/>
+    <circle cx="15" cy="15" r="1.5" fill="#E6E0F5" opacity="0.7"/>
+    <!-- Branch tips -->
+    <line x1="15" y1="4" x2="12" y2="7" stroke="#9B8CFF" stroke-width="0.6" opacity="0.5"/>
+    <line x1="15" y1="4" x2="18" y2="7" stroke="#9B8CFF" stroke-width="0.6" opacity="0.5"/>
+    <line x1="15" y1="26" x2="12" y2="23" stroke="#9B8CFF" stroke-width="0.6" opacity="0.5"/>
+    <line x1="15" y1="26" x2="18" y2="23" stroke="#9B8CFF" stroke-width="0.6" opacity="0.5"/>
+  </g>
+</svg>

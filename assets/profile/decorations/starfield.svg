@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="0.8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes t1 { 0%,100% { opacity: 0.15; } 50% { opacity: 0.7; } }
+      @keyframes t2 { 0%,100% { opacity: 0.4; } 40% { opacity: 0.1; } 80% { opacity: 0.8; } }
+      @keyframes t3 { 0%,100% { opacity: 0.3; } 60% { opacity: 0.9; } }
+      @keyframes t4 { 0%,100% { opacity: 0.5; } 30% { opacity: 0.1; } 70% { opacity: 0.7; } }
+      .a { animation: t1 4s ease-in-out infinite; }
+      .b { animation: t2 5s ease-in-out infinite; }
+      .c { animation: t3 3.5s ease-in-out infinite; }
+      .d { animation: t4 6s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <g filter="url(#glow)">
+    <!-- Row 1 -->
+    <circle class="a" cx="30" cy="10" r="0.8" fill="#C9B8FF"/>
+    <circle class="b" cx="85" cy="15" r="0.5" fill="#9B8CFF"/>
+    <circle class="c" cx="140" cy="8" r="0.7" fill="#E6E0F5"/>
+    <circle class="d" cx="180" cy="20" r="0.4" fill="#8D6AC8"/>
+    <circle class="a" cx="230" cy="12" r="0.6" fill="#C9B8FF" style="animation-delay:0.5s"/>
+    <circle class="b" cx="290" cy="18" r="0.9" fill="#9B8CFF" style="animation-delay:1s"/>
+    <circle class="c" cx="340" cy="7" r="0.5" fill="#C9B8FF" style="animation-delay:0.3s"/>
+    <circle class="d" cx="395" cy="22" r="0.7" fill="#E6E0F5" style="animation-delay:2s"/>
+    <circle class="a" cx="440" cy="10" r="0.4" fill="#8D6AC8" style="animation-delay:1.5s"/>
+    <circle class="b" cx="500" cy="16" r="0.8" fill="#C9B8FF" style="animation-delay:0.8s"/>
+    <circle class="c" cx="555" cy="9" r="0.6" fill="#9B8CFF" style="animation-delay:1.2s"/>
+    <circle class="d" cx="610" cy="21" r="0.5" fill="#C9B8FF" style="animation-delay:0.4s"/>
+    <circle class="a" cx="660" cy="11" r="0.7" fill="#E6E0F5" style="animation-delay:2.5s"/>
+    <circle class="b" cx="715" cy="17" r="0.4" fill="#8D6AC8" style="animation-delay:1.8s"/>
+    <circle class="c" cx="770" cy="13" r="0.6" fill="#C9B8FF" style="animation-delay:0.7s"/>
+
+    <!-- Row 2 -->
+    <circle class="d" cx="55" cy="35" r="0.5" fill="#9B8CFF" style="animation-delay:0.9s"/>
+    <circle class="a" cx="110" cy="40" r="0.7" fill="#C9B8FF" style="animation-delay:1.3s"/>
+    <circle class="b" cx="165" cy="45" r="0.4" fill="#8D6AC8" style="animation-delay:2.2s"/>
+    <circle class="c" cx="220" cy="38" r="0.8" fill="#E6E0F5" style="animation-delay:0.6s"/>
+    <circle class="d" cx="275" cy="48" r="0.5" fill="#9B8CFF" style="animation-delay:1.7s"/>
+    <circle class="a" cx="330" cy="35" r="0.6" fill="#C9B8FF" style="animation-delay:0.2s"/>
+    <circle class="b" cx="385" cy="42" r="0.4" fill="#8D6AC8" style="animation-delay:2.8s"/>
+    <circle class="c" cx="440" cy="50" r="0.7" fill="#C9B8FF" style="animation-delay:1.1s"/>
+    <circle class="d" cx="495" cy="37" r="0.5" fill="#9B8CFF" style="animation-delay:0.4s"/>
+    <circle class="a" cx="550" cy="45" r="0.8" fill="#E6E0F5" style="animation-delay:1.9s"/>
+    <circle class="b" cx="605" cy="40" r="0.4" fill="#C9B8FF" style="animation-delay:0.3s"/>
+    <circle class="c" cx="660" cy="48" r="0.6" fill="#8D6AC8" style="animation-delay:2.4s"/>
+    <circle class="d" cx="715" cy="36" r="0.5" fill="#9B8CFF" style="animation-delay:1.6s"/>
+    <circle class="a" cx="770" cy="44" r="0.7" fill="#C9B8FF" style="animation-delay:0.8s"/>
+  </g>
+</svg>

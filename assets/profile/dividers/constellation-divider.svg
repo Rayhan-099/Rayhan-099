@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
+  <defs>
+    <filter id="starGlow">
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes twinkle1 { 0%,100% { opacity: 0.2; } 50% { opacity: 1; } }
+      @keyframes twinkle2 { 0%,100% { opacity: 0.6; } 30% { opacity: 0.1; } 70% { opacity: 0.9; } }
+      @keyframes twinkle3 { 0%,100% { opacity: 0.4; } 40% { opacity: 1; } 80% { opacity: 0.2; } }
+      .s1 { animation: twinkle1 3s ease-in-out infinite; }
+      .s2 { animation: twinkle2 4s ease-in-out infinite; }
+      .s3 { animation: twinkle3 5s ease-in-out infinite; }
+      .s4 { animation: twinkle1 3.5s ease-in-out infinite 0.5s; }
+      .s5 { animation: twinkle2 4.5s ease-in-out infinite 1s; }
+      .s6 { animation: twinkle3 3s ease-in-out infinite 1.5s; }
+      .s7 { animation: twinkle1 5s ease-in-out infinite 2s; }
+      .s8 { animation: twinkle2 3s ease-in-out infinite 0.8s; }
+      .constellation-line { stroke: #5B3A91; stroke-width: 0.5; opacity: 0.3; }
+    </style>
+  </defs>
+
+  <!-- Constellation lines connecting stars -->
+  <line x1="120" y1="15" x2="195" y2="28" class="constellation-line"/>
+  <line x1="195" y1="28" x2="270" y2="18" class="constellation-line"/>
+  <line x1="270" y1="18" x2="340" y2="32" class="constellation-line"/>
+  <line x1="340" y1="32" x2="400" y2="22" class="constellation-line"/>
+  <line x1="400" y1="22" x2="460" y2="33" class="constellation-line"/>
+  <line x1="460" y1="33" x2="530" y2="20" class="constellation-line"/>
+  <line x1="530" y1="20" x2="610" y2="30" class="constellation-line"/>
+  <line x1="610" y1="30" x2="680" y2="17" class="constellation-line"/>
+
+  <!-- Branch lines -->
+  <line x1="270" y1="18" x2="310" y2="10" class="constellation-line" opacity="0.2"/>
+  <line x1="460" y1="33" x2="490" y2="40" class="constellation-line" opacity="0.2"/>
+  <line x1="400" y1="22" x2="380" y2="12" class="constellation-line" opacity="0.2"/>
+
+  <!-- Main constellation stars -->
+  <g filter="url(#starGlow)">
+    <circle class="s1" cx="120" cy="15" r="2" fill="#C9B8FF"/>
+    <circle class="s2" cx="195" cy="28" r="1.8" fill="#9B8CFF"/>
+    <circle class="s3" cx="270" cy="18" r="2.2" fill="#C9B8FF"/>
+    <circle class="s4" cx="340" cy="32" r="1.5" fill="#8D6AC8"/>
+    <circle class="s5" cx="400" cy="22" r="2.5" fill="#E6E0F5"/>
+    <circle class="s6" cx="460" cy="33" r="1.7" fill="#9B8CFF"/>
+    <circle class="s7" cx="530" cy="20" r="2" fill="#C9B8FF"/>
+    <circle class="s8" cx="610" cy="30" r="1.8" fill="#8D6AC8"/>
+    <circle class="s1" cx="680" cy="17" r="2.2" fill="#C9B8FF" style="animation-delay: 0.3s"/>
+  </g>
+
+  <!-- Branch endpoint stars -->
+  <g filter="url(#starGlow)">
+    <circle class="s5" cx="310" cy="10" r="1" fill="#9B8CFF"/>
+    <circle class="s3" cx="490" cy="40" r="1.2" fill="#8D6AC8"/>
+    <circle class="s7" cx="380" cy="12" r="0.9" fill="#C9B8FF"/>
+  </g>
+
+  <!-- Background ambient stars -->
+  <circle class="s2" cx="50" cy="25" r="0.6" fill="#5B3A91" opacity="0.4"/>
+  <circle class="s4" cx="80" cy="38" r="0.5" fill="#9B8CFF" opacity="0.3"/>
+  <circle class="s6" cx="160" cy="8" r="0.4" fill="#C9B8FF" opacity="0.3"/>
+  <circle class="s8" cx="240" cy="42" r="0.5" fill="#5B3A91" opacity="0.4"/>
+  <circle class="s1" cx="430" cy="8" r="0.4" fill="#9B8CFF" opacity="0.3"/>
+  <circle class="s3" cx="560" cy="42" r="0.6" fill="#8D6AC8" opacity="0.3"/>
+  <circle class="s5" cx="650" cy="40" r="0.4" fill="#C9B8FF" opacity="0.3"/>
+  <circle class="s7" cx="720" cy="25" r="0.5" fill="#5B3A91" opacity="0.4"/>
+  <circle class="s2" cx="750" cy="12" r="0.4" fill="#9B8CFF" opacity="0.3"/>
+</svg>

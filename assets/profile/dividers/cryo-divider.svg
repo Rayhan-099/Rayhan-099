@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+  <defs>
+    <linearGradient id="cryoGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0B14" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#3B245F" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#9B8CFF" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#3B245F" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0D0B14" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="sparkGlow">
+      <stop offset="0%" stop-color="#C9B8FF" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#9B8CFF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#5B3A91" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes drift1 { 0%,100% { transform: translateX(0px) translateY(0px); opacity: 0.3; } 25% { transform: translateX(8px) translateY(-3px); opacity: 1; } 50% { transform: translateX(16px) translateY(1px); opacity: 0.6; } 75% { transform: translateX(4px) translateY(-2px); opacity: 0.9; } }
+      @keyframes drift2 { 0%,100% { transform: translateX(0px) translateY(0px); opacity: 0.5; } 30% { transform: translateX(-6px) translateY(-4px); opacity: 1; } 60% { transform: translateX(-12px) translateY(2px); opacity: 0.4; } 90% { transform: translateX(-3px) translateY(-1px); opacity: 0.8; } }
+      @keyframes pulse { 0%,100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 1; transform: scale(1.3); } }
+      @keyframes snowfall { 0% { transform: translateY(0px); opacity: 0; } 10% { opacity: 0.8; } 80% { opacity: 0.6; } 100% { transform: translateY(8px); opacity: 0; } }
+      .p1 { animation: drift1 6s ease-in-out infinite; }
+      .p2 { animation: drift2 7s ease-in-out infinite; }
+      .p3 { animation: pulse 4s ease-in-out infinite; }
+      .p4 { animation: drift1 5s ease-in-out infinite 1s; }
+      .p5 { animation: snowfall 3s ease-in-out infinite; }
+      .p6 { animation: snowfall 4s ease-in-out infinite 1.5s; }
+      .p7 { animation: drift2 8s ease-in-out infinite 0.5s; }
+      .center-gem { animation: pulse 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Main gradient line -->
+  <line x1="60" y1="20" x2="740" y2="20" stroke="url(#cryoGrad)" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Center diamond gem -->
+  <g class="center-gem" filter="url(#glow)">
+    <polygon points="400,12 406,20 400,28 394,20" fill="#C9B8FF" opacity="0.9"/>
+    <polygon points="400,14 404,20 400,26 396,20" fill="#E6E0F5" opacity="0.6"/>
+  </g>
+
+  <!-- Ice crystal particles -->
+  <g class="p1" filter="url(#glow)">
+    <circle cx="150" cy="18" r="1.5" fill="#9B8CFF" opacity="0.7"/>
+    <line x1="148" y1="18" x2="152" y2="18" stroke="#C9B8FF" stroke-width="0.5" opacity="0.5"/>
+    <line x1="150" y1="16" x2="150" y2="20" stroke="#C9B8FF" stroke-width="0.5" opacity="0.5"/>
+  </g>
+
+  <g class="p2" filter="url(#glow)">
+    <circle cx="280" cy="22" r="1.2" fill="#C9B8FF" opacity="0.6"/>
+    <line x1="278.5" y1="22" x2="281.5" y2="22" stroke="#9B8CFF" stroke-width="0.4" opacity="0.4"/>
+    <line x1="280" y1="20.5" x2="280" y2="23.5" stroke="#9B8CFF" stroke-width="0.4" opacity="0.4"/>
+  </g>
+
+  <g class="p4" filter="url(#glow)">
+    <circle cx="520" cy="17" r="1.3" fill="#8D6AC8" opacity="0.7"/>
+    <line x1="518.5" y1="17" x2="521.5" y2="17" stroke="#C9B8FF" stroke-width="0.4" opacity="0.5"/>
+    <line x1="520" y1="15.5" x2="520" y2="18.5" stroke="#C9B8FF" stroke-width="0.4" opacity="0.5"/>
+  </g>
+
+  <g class="p7" filter="url(#glow)">
+    <circle cx="650" cy="21" r="1.1" fill="#9B8CFF" opacity="0.5"/>
+    <line x1="648.5" y1="21" x2="651.5" y2="21" stroke="#C9B8FF" stroke-width="0.3" opacity="0.4"/>
+    <line x1="650" y1="19.5" x2="650" y2="22.5" stroke="#C9B8FF" stroke-width="0.3" opacity="0.4"/>
+  </g>
+
+  <!-- Tiny snowflake particles -->
+  <circle class="p5" cx="200" cy="14" r="0.8" fill="#E6E0F5" opacity="0.5"/>
+  <circle class="p6" cx="350" cy="15" r="0.6" fill="#C9B8FF" opacity="0.4"/>
+  <circle class="p5" cx="480" cy="13" r="0.7" fill="#E6E0F5" opacity="0.3" style="animation-delay: 0.8s"/>
+  <circle class="p6" cx="600" cy="16" r="0.5" fill="#9B8CFF" opacity="0.5" style="animation-delay: 2s"/>
+
+  <!-- Edge sparkle dots -->
+  <circle class="p3" cx="100" cy="20" r="1" fill="url(#sparkGlow)" opacity="0.5"/>
+  <circle class="p3" cx="700" cy="20" r="1" fill="url(#sparkGlow)" opacity="0.5" style="animation-delay: 1.5s"/>
+</svg>

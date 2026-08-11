@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <filter id="cryoGlow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="iceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C9B8FF"/>
+      <stop offset="50%" stop-color="#9B8CFF"/>
+      <stop offset="100%" stop-color="#8D6AC8"/>
+    </linearGradient>
+    <style>
+      @keyframes cryoSpin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+      @keyframes cryoPulse { 0%,100% { opacity: 0.5; } 50% { opacity: 1; } }
+      .outer-ring { animation: cryoSpin 20s linear infinite; transform-origin: 30px 30px; }
+      .inner-pulse { animation: cryoPulse 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <!-- Outer rotating ring -->
+  <g class="outer-ring" filter="url(#cryoGlow)">
+    <circle cx="30" cy="30" r="24" fill="none" stroke="#5B3A91" stroke-width="1" opacity="0.4"/>
+    <!-- Notch marks around ring -->
+    <line x1="30" y1="4" x2="30" y2="8" stroke="#9B8CFF" stroke-width="0.8" opacity="0.6"/>
+    <line x1="30" y1="52" x2="30" y2="56" stroke="#9B8CFF" stroke-width="0.8" opacity="0.6"/>
+    <line x1="4" y1="30" x2="8" y2="30" stroke="#9B8CFF" stroke-width="0.8" opacity="0.6"/>
+    <line x1="52" y1="30" x2="56" y2="30" stroke="#9B8CFF" stroke-width="0.8" opacity="0.6"/>
+  </g>
+
+  <!-- Cryo element symbol — stylized six-pointed snowflake -->
+  <g class="inner-pulse" filter="url(#cryoGlow)">
+    <!-- Main six arms -->
+    <line x1="30" y1="12" x2="30" y2="48" stroke="url(#iceGrad)" stroke-width="2" stroke-linecap="round"/>
+    <line x1="14.4" y1="21" x2="45.6" y2="39" stroke="url(#iceGrad)" stroke-width="2" stroke-linecap="round"/>
+    <line x1="14.4" y1="39" x2="45.6" y2="21" stroke="url(#iceGrad)" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Branch details on each arm -->
+    <!-- Top arm -->
+    <line x1="30" y1="16" x2="26" y2="20" stroke="#C9B8FF" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+    <line x1="30" y1="16" x2="34" y2="20" stroke="#C9B8FF" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+    <!-- Bottom arm -->
+    <line x1="30" y1="44" x2="26" y2="40" stroke="#C9B8FF" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+    <line x1="30" y1="44" x2="34" y2="40" stroke="#C9B8FF" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+    <!-- Upper-right arm -->
+    <line x1="42" y1="23" x2="40" y2="19" stroke="#C9B8FF" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+    <line x1="42" y1="23" x2="44" y2="27" stroke="#C9B8FF" stroke-width="1" stroke-linecap="round" opacity="0.5"/>
+    <!-- Lower-left arm -->
+    <line x1="18" y1="37" x2="16" y2="33" stroke="#C9B8FF" stroke-width="1" stroke-linecap="round" opacity="0.5"/>
+    <line x1="18" y1="37" x2="20" y2="41" stroke="#C9B8FF" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+
+    <!-- Center crystal -->
+    <polygon points="30,24 36,30 30,36 24,30" fill="#C9B8FF" opacity="0.4"/>
+    <circle cx="30" cy="30" r="3" fill="#E6E0F5" opacity="0.8"/>
+    <circle cx="30" cy="30" r="1.5" fill="white" opacity="0.6"/>
+  </g>
+</svg>
