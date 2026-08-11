@@ -3,7 +3,7 @@
 # ✦ RAYHAN ✦
 
 <a href="https://github.com/Rayhan-099">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=850&color=C9B8FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=95&lines=building+things+that+probably+shouldn't+exist+yet;AI%2FML+%2B+full-stack+%2B+comp+science;currently+lost+somewhere+in+teyvat+%E2%9D%84%EF%B8%8F;coding+at+questionable+hours+lmao" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=850&color=C9B8FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=95&lines=building+things+that+probably+shouldn't+exist+yet;AI%2FML+%2B+full-stack+%2B+comp+science;currently+lost+somewhere+in+teyvat+%E2%9D%84%EF%B8%8F" alt="Typing animation"/>
 </a>
 
 
