@@ -19,8 +19,6 @@
 
 <!-- Cute anime-style counter + a stable fallback -->
 <img src="https://count.getloli.com/get/@Rayhan-099?theme=gelbooru-h" alt="Profile visitor count"/>
-<br>
-<img src="https://komarev.com/ghpvc/?username=Rayhan-099&label=profile%20visitors&color=8d6ac8&style=flat-square" alt="Profile views"/>
 
 <br><br>
 
